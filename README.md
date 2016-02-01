@@ -13,3 +13,20 @@ elm package install
 gulp
 
 ```
+
+## If you are new to Elm
+
+Check out Elm at [Elm website](http://elm-lang.org/)
+Go through the tutorials and what not.
+
+### Entry Point for this boilerplate
+You will find the entry point in the index.html file:
+
+```javascript
+    var mainElement = document.getElementById('main');
+    var elm = Elm.embed(Elm.Main, mainElement);
+```
+
+The Elm object comes from the compiled Elm code in ```Main.js```.
+On that Elm object you will find a Main module (```Elm.Main```), that comes from the file ```Main.elm``` which is the starting point for your Elm code.
+(You can of course change this module name, I just think ```Main.elm``` works well.)
