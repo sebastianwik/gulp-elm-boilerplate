@@ -4,5 +4,6 @@ A simple boilerplate for Gulp, Elm and Browser-sync
 ## Get started
 ```
 npm install
+elm package install
 gulp
 ```
