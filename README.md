@@ -16,8 +16,8 @@ gulp
 
 ## If you are new to Elm
 
-Check out Elm at [Elm website](http://elm-lang.org/)
-Go through the tutorials and what not.
+Check out Elm at [elm-lang.org](http://elm-lang.org/)
+and go through the tutorials and what not.
 
 ### Entry Point for this boilerplate
 You will find the entry point in the index.html file:
