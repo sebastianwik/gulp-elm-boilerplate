@@ -6,7 +6,7 @@ Make sure you have Elm installed and that the ```elm``` command works.
 
 In your terminal:
 ```
-git clone git@github.com:sebastianwik/gulp-elm-boilerplate.git project
+git clone https://github.com/sebastianwik/gulp-elm-boilerplate.github project
 cd project
 npm install 
 elm package install
