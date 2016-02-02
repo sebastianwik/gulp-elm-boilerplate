@@ -8,10 +8,7 @@ In your terminal:
 ```
 git clone https://github.com/sebastianwik/gulp-elm-boilerplate.git project
 cd project
-npm install 
-elm package install
-gulp
-
+npm install && npm start
 ```
 
 ## If you are new to Elm
