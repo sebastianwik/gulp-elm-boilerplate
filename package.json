@@ -1,10 +1,12 @@
 {
   "name": "gulp-elm-boilerplate",
   "version": "1.0.0",
-  "description": "",
+  "description": "A simple boilerplate for Elm, Gulp and Browser-sync",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "postinstall": "elm package install",
+    "start": "gulp serve"
   },
   "author": "",
   "license": "ISC",
