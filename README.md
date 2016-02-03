@@ -3,12 +3,17 @@ A simple boilerplate for Gulp, Elm and Browser-sync
 
 ## Get started
 Make sure you have Elm installed and that the ```elm``` command works.
+Install elm with npm:
+```
+npm install -g elm
+```
 
-In your terminal:
+Then to install this repo:
 ```
 git clone https://github.com/sebastianwik/gulp-elm-boilerplate.git project
 cd project
-npm install && npm start
+npm install
+npm start
 ```
 
 ## If you are new to Elm
