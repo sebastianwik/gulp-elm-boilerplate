@@ -12,7 +12,8 @@ Then to install this repo:
 ```
 git clone https://github.com/sebastianwik/gulp-elm-boilerplate.git project
 cd project
-npm install && npm start
+npm install
+npm start
 ```
 
 ## If you are new to Elm
