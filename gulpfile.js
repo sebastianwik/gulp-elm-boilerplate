@@ -45,8 +45,8 @@ gulp.task('markup', function(){
 // -------------------------
 
 gulp.task('assets', function(){
-    return gulp.src('app/assets/*')
-        pipe(gulp.dest('dist/assets/'))
+    return gulp.src(['app/assets/**/*'])
+    .pipe(gulp.dest('dist/assets'));
 });
 
 
