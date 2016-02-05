@@ -16,6 +16,13 @@ npm install
 npm start
 ```
 
+Gulp tasks:
+```
+gulp build
+gulp serve
+```
+
+
 ## If you are new to Elm
 
 Check out Elm at [elm-lang.org](http://elm-lang.org/)
